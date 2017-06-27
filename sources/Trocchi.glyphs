@@ -10630,20 +10630,24 @@ layers = (
 {
 guideLines = (
 {
-angle = -50.5993;
-position = "{467, 167}";
+angle = 123.4952;
+position = "{201, 367}";
 },
 {
-angle = -50.5993;
-position = "{343, 167}";
+angle = 123.4952;
+position = "{324, 367}";
 },
 {
-angle = 230.757;
-position = "{197, 156}";
+angle = 53.9275;
+position = "{367, 394}";
 },
 {
-angle = 230.757;
-position = "{273, 156}";
+angle = 53.9275;
+position = "{443, 394}";
+},
+{
+angle = 90;
+position = "{307, 55}";
 }
 );
 layerId = "EE746D13-63D7-48F9-B77E-C723CA6A668B";
@@ -10651,34 +10655,34 @@ paths = (
 {
 closed = 1;
 nodes = (
-"280 0 LINE",
-"280 55 LINE",
-"181 55 LINE",
-"308 210 LINE",
-"435 55 LINE",
-"348 55 LINE",
-"348 0 LINE",
-"640 0 LINE",
-"640 55 LINE",
-"559 55 LINE",
-"374 280 LINE",
-"529 469 LINE",
-"609 469 LINE",
-"609 524 LINE",
-"374 524 LINE",
-"374 469 LINE",
-"453 469 LINE",
-"336 326 LINE",
-"219 469 LINE",
-"306 469 LINE",
-"306 524 LINE",
-"15 524 LINE",
-"15 469 LINE",
-"95 469 LINE",
-"270 256 LINE",
-"105 55 LINE",
-"28 55 LINE",
-"28 0 LINE"
+"266 0 LINE",
+"266 55 LINE",
+"196 55 LINE",
+"307 207 LINE",
+"407 55 LINE",
+"350 55 LINE",
+"350 0 LINE",
+"601 0 LINE",
+"601 55 LINE",
+"531 55 LINE",
+"387 271 LINE",
+"532 469 LINE",
+"601 469 LINE",
+"601 524 LINE",
+"386 524 LINE",
+"386 469 LINE",
+"456 469 LINE",
+"346 318 LINE",
+"247 469 LINE",
+"304 469 LINE",
+"304 524 LINE",
+"53 524 LINE",
+"53 469 LINE",
+"123 469 LINE",
+"265 254 LINE",
+"120 55 LINE",
+"43 55 LINE",
+"43 0 LINE"
 );
 }
 );
