@@ -35,7 +35,7 @@ date = "2017-06-04 21:19:05 +0000";
 designer = "Vernon Adams";
 designerURL = "http://newtypography.co.uk";
 disablesNiceNames = 1;
-familyName = "Trocchi v.1.3.5";
+familyName = "Trocchi v.1.3.6";
 featurePrefixes = (
 {
 automatic = 1;
@@ -16249,6 +16249,7 @@ nodes = (
 width = 557;
 }
 );
+leftKerningGroup = z;
 note = z;
 rightKerningGroup = z;
 unicode = 007A;
@@ -38733,11 +38734,11 @@ kerning = {
 "@MMK_R_V" = -48;
 "@MMK_R_Y" = -96;
 "@MMK_R_c" = -37.10940;
+"@MMK_R_o" = -10;
 "@MMK_R_quotedblright" = -73.24220;
 "@MMK_R_quoteright" = -84;
-"@MMK_R_y" = -56.64060;
 "@MMK_R_v" = -24;
-"@MMK_R_o" = -10;
+"@MMK_R_y" = -56.64060;
 };
 "@MMK_L_B" = {
 "@MMK_R_A" = 0;
@@ -38816,8 +38817,8 @@ X = 0;
 "@MMK_R_X" = -12;
 "@MMK_R_Y" = -42;
 "@MMK_R_Z" = -6;
-g = -6;
 "@MMK_R_a" = -6;
+g = -6;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -121.58200;
@@ -38881,8 +38882,8 @@ e = -47;
 "@MMK_R_s" = -35.1562;
 "@MMK_R_semicolon" = -63.47660;
 "@MMK_R_u" = -22;
-"@MMK_R_y" = -66.89450;
 "@MMK_R_v" = -20;
+"@MMK_R_y" = -66.89450;
 g = -60;
 s = -57;
 z = -23;
@@ -38922,6 +38923,7 @@ z = 0;
 "@MMK_L_h" = {
 "@MMK_R_a" = -15.1367;
 "@MMK_R_s" = 0;
+"@MMK_R_v" = -10;
 "@MMK_R_y" = -20.50780;
 };
 "@MMK_L_k" = {
@@ -38935,6 +38937,11 @@ z = 0;
 j = 0;
 v = -22;
 w = -11;
+};
+"@MMK_L_o" = {
+"@MMK_R_a" = -7;
+"@MMK_R_v" = -5;
+"@MMK_R_z" = -7;
 };
 "@MMK_L_r" = {
 "@MMK_R_c" = 0;
@@ -38969,6 +38976,12 @@ W = {
 "@MMK_R_A" = -108;
 "@MMK_R_c" = -52;
 };
+X = {
+"@MMK_R_a" = -30;
+};
+Y = {
+"@MMK_R_a" = -96;
+};
 a = {
 "@MMK_R_t" = -7;
 v = -12;
@@ -38997,12 +39010,6 @@ e = -11;
 };
 w = {
 e = -11;
-};
-X = {
-"@MMK_R_a" = -30;
-};
-Y = {
-"@MMK_R_a" = -96;
 };
 };
 };
